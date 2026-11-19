@@ -2,6 +2,6 @@ student name: Lakshith
 department: CSE
 year: second year
 subject: Git
-Experiment: Repository history audit
+Experiment: Repository history audit veification
 purpose: track and audit repository changes
 add the laboratory status
